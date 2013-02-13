@@ -4,6 +4,7 @@
     <list default="true" id="9d43606f-12d5-49b4-b806-312d40392075" name="Default" comment="" />
     <ignored path="Force.com-JavaScript-REST-Toolkit.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/.gitignore" changelist="9d43606f-12d5-49b4-b806-312d40392075" time="1360764785337" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,16 @@
       <file leaf-file-name="private-how-to-git.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/private-how-to-git.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="11" selection-start="439" selection-end="448" vertical-scroll-proportion="0.3480041">
+            <state line="33" column="13" selection-start="671" selection-end="697" vertical-scroll-proportion="0.57420677">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="5" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -136,6 +146,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/static/jquery.popup.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -444,9 +455,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/private-how-to-git.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="11" selection-start="439" selection-end="448" vertical-scroll-proportion="0.3480041">
+        <state line="33" column="13" selection-start="671" selection-end="697" vertical-scroll-proportion="0.57420677">
           <folding />
         </state>
       </provider>
